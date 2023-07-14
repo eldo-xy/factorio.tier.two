@@ -1,0 +1,9 @@
+{
+    "name": "tiertwo",
+    "version": "0.0.1",
+    "title": "Tier Two",
+    "author": "eldo-xy",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Tier Two version of different items for the base game"
+}
